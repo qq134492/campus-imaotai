@@ -1,7 +1,7 @@
 # 海外手游 CPS 推广科普 · 短视频文案合集
 
 > 适用：抖音 / 视频号 / B站 / 小红书 竖屏短视频（9:16），单条 50–70 秒
-> 系列定位：从 0 讲清楚「海外手游 CPS 推广」怎么做——概念 → 选游戏 → 选市场 → 找玩家 → 玩家建联 → 做内容 → 看数据 → 合规避坑
+> 系列定位：从 0 讲清楚「海外手游 CPS 推广」怎么做——概念 → 选游戏 → 选市场 → 找玩家 → 玩家建联 → 做内容 → 看数据 → 合规避坑 → 品类实操（SLG）
 > 每条包含：标题 + 封面字、口播全文（可直接喂给 TTS）、分镜（画面 + 字幕 + 英文视频生成提示词）
 
 ---
@@ -331,6 +331,57 @@
 
 ---
 
+## 第 10 集｜SLG 实操：带一支联盟进新服
+
+**标题**：为什么做 CPS 的老手都爱推 SLG？实操一遍你就懂了
+**封面字**：SLG 实操 5 步
+
+**口播全文**
+> SLG，就是策略类游戏：种田、建城、组联盟、打国战。为什么它适合做 CPS？因为玩家玩得久、愿意为联盟和战斗投入，而且一个联盟就是一个现成的社群。
+> 实操分 5 步。
+> 第一步，选游戏：看它是不是定期开新服、分成能不能覆盖玩家的长期流水、联盟玩法重不重。
+> 第二步，盯开服节奏。SLG 的新服是最好的拉新窗口。提前一周在社群预告开服时间，统一写清楚时区。
+> 第三步，抱团进新服。把你的玩家带进同一个服务器，组建自己的联盟。你当盟主或者管理，新人有人带、打架有人组织，自然留得住。
+> 第四步，做开荒内容。前 7 天建造顺序、资源怎么分配、英雄怎么搭配、赛季规则解读，这些是 SLG 玩家最需要的。
+> 第五步，用联盟社群维护。集结时间、战报复盘、新人答疑，都放在你的 Discord 里。
+> 最后提醒：SLG 竞争很强，但永远别怂恿玩家为了打赢而超出能力去充值。联盟能长久，靠的是大家都玩得开心。
+
+**分镜**
+
+| # | 时长 | 画面 | 字幕 |
+|---|---|---|---|
+| 1 | 6s | 俯瞰一张巨大的战略沙盘地图，城池与军队在移动 | SLG = 策略 + 联盟 |
+| 2 | 6s | 一片新大陆从云雾中升起，上面插着一面新旗帜 | ① 选定期开新服的游戏 |
+| 3 | 6s | 一座钟楼的指针走向整点，世界各地的时钟同步亮起 | ② 盯开服，写清时区 |
+| 4 | 7s | 一队骑兵举着同一面旗帜，从城门冲向新大陆 | ③ 抱团进新服 |
+| 5 | 6s | 书桌上摊着城建图纸，手指按顺序点过建筑 | ④ 前 7 天开荒攻略 |
+| 6 | 6s | 联盟议事厅里，一群人围着地图讨论作战 | ⑤ 联盟社群维护 |
+| 7 | 6s | 战斗结束后，夕阳下各色战士举杯庆祝 | 理性充值，玩得开心 |
+
+**英文提示词**
+1. `Top-down view of a huge medieval strategy war map table, miniature castles and armies moving across territories, dramatic candle lighting, epic mood, vertical 9:16, no text, no logos`
+2. `A new continent rising from the clouds and mist, a fresh flag planted on its highest hill, golden sunrise, fantasy epic style, vertical 9:16, no text`
+3. `Clock tower hands moving to the top of the hour, then several clocks from different cities around the world lighting up in sync, motion graphics, vertical 9:16, no readable text`
+4. `Cavalry squad all carrying the same banner charging out of a city gate toward a newly discovered land, dust and sunlight, cinematic fantasy, vertical 9:16, no logos`
+5. `Close-up of a desk with a city-building blueprint, a finger tapping buildings one by one in order, glowing highlights appear on each, warm lamp light, vertical 9:16, no readable text`
+6. `Fantasy alliance war council hall, diverse group of commanders gathered around a glowing map discussing tactics, torchlight, vertical 9:16, original characters`
+7. `After a battle at sunset, warriors of different factions raising cups together and laughing on a hill, warm golden light, camaraderie, vertical 9:16, original characters`
+
+**SLG 专用联盟招募帖（英文模板）**
+```
+⚔️ [Alliance Name] is recruiting for Server #[number]! ⚔️
+🕐 Server opens: [date, time + timezone]
+✅ Active players from [region/timezone]
+✅ Day-1 build order guide + resource plan for new members
+✅ Organized rallies & events — times posted in Discord
+✅ Friendly to F2P and new players, no pressure to spend
+Join our Discord to coordinate before launch: [invite link]
+```
+
+> 进阶可以拆成续集：「SLG 前 7 天开荒攻略怎么拍」「联盟管理团队怎么分工」「赛季结束后怎么带玩家转服」。
+
+---
+
 ## 附录 A｜玩家建联话术模板（英文，可直接改用）
 
 > 原则：只回复主动互动的人；在社群里先遵守版规；涉及链接时注明是推广链接。
@@ -387,7 +438,6 @@ to answer questions in #help. Who's joining? 🔥
 
 | 选题 | 钩子 |
 |---|---|
-| SLG 游戏 CPS 实操 | 为什么 SLG 是 CPS 推广里的"现金牛" |
 | 新服开服期怎么抢量 | 开服前 72 小时，决定你这款游戏的上限 |
 | TikTok 攻略号从 0 起号 | 不露脸、不配音，也能做游戏攻略号 |
 | 一个人怎么同时运营多款游戏 | 别贪多，3 款以内是新手的极限 |
